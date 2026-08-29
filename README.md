@@ -102,10 +102,10 @@ GitHub supports adding multiple authors to a commit using a `Co-authored-by:` tr
 
 | Level | Label | Requirement |
 |---|:---:|---:|
-| Default | — | Qualifying coauthored merged pull request |
-| Bronze | `x2` | 10 coauthored merged pull requests |
-| Silver | `x3` | 24 coauthored merged pull requests |
-| Gold | `x4` | 48 coauthored merged pull requests |
+| Default | — | Qualifying coauthored merged pull request. |
+| Bronze | `x2` | 10 coauthored merged pull requests. |
+| Silver | `x3` | 24 coauthored merged pull requests. |
+| Gold | `x4` | 48 coauthored merged pull requests. |
 
 ---
 
