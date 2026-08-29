@@ -68,10 +68,10 @@ GitHub launched the expanded Achievements experience in **June 2022**. Some achi
 
 | Badge | Achievement | Status | How to Earn | Tiers |
 |:---:|---|:---:|---|:---:|
-| <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="80"> | **Pair Extraordinaire** | ✅ | Coauthor commits that are included in merged pull requests | ✅ |
-| <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="80"> | **Quickdraw** | ✅ | Close an issue or pull request within 5 minutes of opening it | — |
-| <img src="https://github.githubassets.com/assets/starstruck-default-b6610abad518.png" width="80"> | **Starstruck** | ✅ | Create a repository that reaches at least 16 stars | ✅ |
-| <img src="https://github.githubassets.com/assets/galaxy-brain-default-847262c21056.png" width="80"> | **Galaxy Brain** | ✅ | Have answers accepted in GitHub Discussions | ✅ |
+| <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="80"> | **Pair Extraordinaire** | ✅ | Coauthor commits that are included in merged pull requests. | ✅ |
+| <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="80"> | **Quickdraw** | ✅ | Close an issue or pull request within 5 minutes of opening it. | — |
+| <img src="https://github.githubassets.com/assets/starstruck-default-b6610abad518.png" width="80"> | **Starstruck** | ✅ | Create a repository that reaches at least 16 stars. | ✅ |
+| <img src="https://github.githubassets.com/assets/galaxy-brain-default-847262c21056.png" width="80"> | **Galaxy Brain** | ✅ | Have answers accepted in GitHub Discussions. | ✅ |
 | <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="80"> | **Pull Shark** | ✅ | Have pull requests merged. | ✅ |
 | <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="80"> | **YOLO** | ✅ | Merge your own pull request without a code review. | — |
 | <img src="https://github.githubassets.com/assets/public-sponsor-default-9fa68986b057.png" width="80"> | **Public Sponsor** | ✅ | Sponsor open-source work through GitHub Sponsors. | — |
