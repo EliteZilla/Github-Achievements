@@ -334,10 +334,10 @@ React to content on GitHub using the **❤️ heart reaction**.
 
 | Level | Label | Reported Requirement |
 |---|:---:|---:|
-| Default | — | Heart-reaction activity |
-| Bronze | `x2` | 16 ❤️ reactions |
-| Silver | `x3` | 128 ❤️ reactions |
-| Gold | `x4` | Exact threshold not reliably confirmed |
+| Default | — | Heart-reaction activity. |
+| Bronze | `x2` | 16 ❤️ reactions. |
+| Silver | `x3` | 128 ❤️ reactions. |
+| Gold | `x4` | Exact threshold not reliably confirmed. |
 
 > [!CAUTION]
 > Exact experimental requirements may have changed during testing. This achievement is currently disabled.
